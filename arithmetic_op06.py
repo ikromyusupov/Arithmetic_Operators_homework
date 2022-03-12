@@ -1,9 +1,9 @@
-# Create a variable "a"  and assign it the value of the int 7.
-
-# Create a variable "b"  and assign it the value of the int 3.
-
-# Create a variable "c"  and assign it the value of the int 5.
-
-# Create a variable called "answer".
-
-# Find the sum of a, b and c then assign to "answer".
+#Create a variable called 'number' with data type int.
+ 
+#Divide the number by 2 and assign number.
+ 
+#Find the fraction of the number and assing to a variable called 'answer'.
+ 
+#Print the answer.
+ 
+#Print the number.

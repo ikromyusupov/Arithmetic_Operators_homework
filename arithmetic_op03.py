@@ -1,7 +1,5 @@
-# Create a variable "a"  and assign it the value of the int 6.
+#Create a variable called 'number' and assign it the two-digit number
 
-# Create a variable "b"  and assign it the value of the int 2.
+#Find the reverse of the number and assign it to a variable called 'answer'.
 
-# Create a variable called 'answer'.
-
-# find the difference of a and b then assign to "answer"
+#Print the answer variable

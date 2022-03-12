@@ -1,5 +1,5 @@
 # Welcome
-# Variables and Arithmetic Operators
+# Arithmetic Operators
 
 Automated grading of homework assignments and tests
 - fork this repository
