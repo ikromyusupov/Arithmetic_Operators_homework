@@ -6,5 +6,5 @@ y = 5
 
 #Print the value of result.
 
-print('The result is:',x+y)
+print(x+y)
 #'The result is:' 
