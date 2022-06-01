@@ -5,5 +5,6 @@ y = 5
 #Create a variable result and assign it the value of x + y.
 
 #Print the value of result.
-print(f'The result is:{x+y}')
+
+print('The result is:',x+y)
 #'The result is:' 
