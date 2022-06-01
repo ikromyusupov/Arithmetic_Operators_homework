@@ -7,4 +7,4 @@ result = x + y
 #Print the value of result.
 
 #'The result is:' 
-print('The result is:',result)
+print(f'The result is:{result}')
